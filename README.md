@@ -3,7 +3,7 @@
 This repository contains the source code of my **personal portfolio website**, built to showcase my background, skills, and projects in **Data Science, Machine Learning, and Data Analytics**.  
 
 ## 🚀 Live Portfolio  
-👉 [View Portfolio](https://mishta08.github.io/Portfolio)  
+👉 [View Portfolio](https://mishta08.github.io/Portfolio/)
 
 ## 📂 Highlights  
 - **About Me** – Introduction and career focus  
